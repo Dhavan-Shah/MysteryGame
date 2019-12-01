@@ -3,6 +3,8 @@ Multi-Player game using Socket Programming mixture of Housie and No. guessing ga
 
 
 Dhavan here, I like Machine Learning and Programming in Python.
+This is a project that can be used to understand Socket Programming in Python.
+
 
 start by executing the Server.py file
 Provide it with IP Address and Port no.
